@@ -1,0 +1,83 @@
+.nav1{
+    background-color: rgba(70, 145, 242, 1);
+}
+button.btn{
+    border-radius: 22px;
+}
+.searchform .form-input {
+    width: 18%;
+    float: left;
+    text-align: end;
+    margin-left: 30px;
+}
+.searchform .form-btn{
+    width: 15%;
+    float: left;
+    margin-left: 30px;
+    text-align: center;
+}
+.searchform .form-col{
+    border-radius: 30px;
+}
+.searchform{
+    padding: 15px;
+    box-shadow: #36353538 1px 1px 8px;
+    border-radius: 30px;
+}
+.nav-cntrl{
+    font-style: mulish;
+}
+.banner-textlr{
+    font-family: Space Grotesk;
+}
+.about-text{
+    margin-top: 20%;
+}
+.btn{
+    border-radius: 22px;
+}
+.arrow-btn{
+    height: 40px;
+    align-content: center;
+}
+.card-list{
+    list-style: none;
+    padding: 0;
+}
+.card-list li .qty{
+    float:right;
+} 
+.card-header{
+    display: flex;
+    background-color: white;
+    padding: 0;
+}
+.card-header .star-rating{
+    text-align: right;
+    font-family: space Grotesk;
+}
+.spotlight-bg {
+    position: relative;
+    height: 500px;
+}
+.spotlight-bg .img-fluid {
+    position: absolute;
+    left: 0;
+}
+.spotlight-bg .content {
+    z-index: 1;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    left: 50%;
+}
+.content{
+    color: white;
+}
+.mount-btn{
+    background-color: white;
+}
+.banner{
+    background-image: url("../images/map_image.jpg");
+    background-size: contain;
+}
